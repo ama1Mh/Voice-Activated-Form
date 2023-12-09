@@ -19,3 +19,9 @@ bulid it with
   <li>JS</li>
 </div>
 <hr>
+
+![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/56879754-0faa-4e68-9c66-9fc74a7fa9b5)
+
+![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/388b18be-8b97-4dae-a201-4e54e17f8e28)
+
+![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/a3e7ffc8-ae3e-49f9-a126-a902a89a5dd7)
