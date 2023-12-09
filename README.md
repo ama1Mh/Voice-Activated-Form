@@ -19,6 +19,3 @@ bulid it with
   <li>JS</li>
 </div>
 <hr>
-![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/33104d7f-d307-424a-a4b3-5ee9e08e6dab)
-![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/1652c07f-0694-4119-9c81-4f6dcc040381)
-![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/cf6af602-663b-492e-9483-2eb28af8bc94)
