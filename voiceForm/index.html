@@ -1,0 +1,71 @@
+<!--start the project at 8:00pm 29 nov-->
+<!--Amal faqihi-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style/style.css">
+    <title>Voice Activated Form</title>
+</head>
+<body>
+    <section class="Voice-form-sec">
+        <div class="info">
+
+            <!--the info with the recording part-->
+            <h1>Voice-Activated-Form</h1>
+            <br>
+            <b>
+                to full the form please use the button "speak"  to record
+                <br>
+                use this keyword "next" before filling each field ("name","city","email","age")
+                <br>
+                exaple : "john next newYork"
+                <br>
+                after recording you can edit the form then submit
+            </b>
+            <br>
+
+            <!--here is the recording function-->
+            <div class="container">
+                <!--to display the audio-->
+                <div class="display">
+                </div>
+                
+                <div class="controllers">
+                </div>
+            </div>
+            <!--to show live feedback and transcribe-->
+            <div id="output" class="outputText"></div>
+        </div>
+
+        <!--form to be fulled-->
+        <div class="form">
+
+            <form action="form.php" method="post">
+
+                <label for=""> name </label>
+                <input type="text" id="name" name="name" required>
+    
+                <label for=""> city </label>
+                <input type="text" id="city" name="city" >
+    
+                <label for=""> email </label>
+                <input type="email" id="email" name="email" >
+    
+                <label for=""> age </label>
+                <input type="number" id="age" name="age" min="1">
+    
+                <button>submit</button>
+                
+            </form>
+
+        </div>
+        <!--js to recorde , recognis, transcribe-->
+        <script src="./js/app.js">
+
+        </script>
+    </section>
+</body>
+</html>
