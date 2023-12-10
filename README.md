@@ -19,6 +19,21 @@ bulid it with
   <li>JS</li>
 </div>
 <hr>
+<h3>HOW to run the project: </h3>
+<li>
+  1️⃣ instal a version of php to your device (this code been developed with PHP 8.3.0)
+</li>
+<li>
+  2️⃣ use a version of localhost (e.g xampp) -> put the project folder in the hdocs 
+</li>
+<li>
+  3️⃣ run apache from you localhost control panel
+</li>
+<li>
+   4️⃣ then run the projec it in your browser.
+</li>
+ 
+<hr>
 
 ![image](https://github.com/ama1Mh/Voice-Activated-Form/assets/97390633/cba49256-2b0c-43a7-8a74-4ea776cdb2c4)
 
